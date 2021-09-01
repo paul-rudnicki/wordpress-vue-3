@@ -73,7 +73,6 @@
 
 <style>
   label{
-    display: block;
-    cursor: pointer;
+    background-color:  yellow;
   }
 </style>
